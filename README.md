@@ -1,5 +1,5 @@
 # FaceMaskDetection
-Accurately detects whether a person id wearing face mask or not, andd if wearing is he wearing correctly or not.
+Accurately detects whether a person is wearing face mask or not, andd if wearing is he wearing correctly or not.
 
 Staxk Used:
 1. Python
